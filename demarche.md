@@ -27,11 +27,11 @@ Une fois bien configuré il est possible d'avoir un flux d'information de qualit
 
 </details>
 
-https://media.discordapp.net/attachments/250327786508517388/790310038068920320/Screenshot_2020-12-20-21-09-34-421_com.reddit.frontpage.jpg?width=312&height=676
+
 <details>
  <summary>Sujet remonté</summary>
  
-![dev-ops](https://cdn.discordapp.com/attachments/250327786508517388/790325269075853372/Screenshot_2020-12-20-21-11-46-349_com.reddit.frontpage.jpg)
+![dev-ops](https://media.discordapp.net/attachments/250327786508517388/790310038068920320/Screenshot_2020-12-20-21-09-34-421_com.reddit.frontpage.jpg?width=312&height=676)
 
 </details>
 
