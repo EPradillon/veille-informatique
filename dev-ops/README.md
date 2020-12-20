@@ -1,8 +1,14 @@
 [Retour à la racine du projet](https://github.com/EPradillon/veille-informatique)  
 
-## Developpeur RoadMap
+## Infrasctructure as Code
+https://crate.io/a/infrastructure-as-code-part-one/
+
+## Dev-ops best practice
+https://gist.github.com/jpswade/4135841363e72ece8086146bd7bb5d91
+
+## Developpeur MindMap
 [Lien d'un projet Github](https://github.com/kamranahmedse/developer-roadmap) vers une roadmap de développeur.  
-> Je vous avais deja montré cette source lors du cours. Elle m'a particulièrement été bénéfique avant de rejoindre l'EPSI lorsque je cherchais à me former par moi même.  
+> Elle m'a particulièrement été bénéfique avant de rejoindre l'EPSI lorsque je cherchais à me former par moi même. 
 
 Elle est découpé en plusieurs partie : Front-end / back-end / Dev Ops.
 
