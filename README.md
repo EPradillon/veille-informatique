@@ -1,6 +1,7 @@
 > 
-![bannière](https://www.doranco.fr/inc/src/img/parcours/banniere/42.png)Coding is not ‘fun’, it’s technically and ethically complex
-
+![bannière](https://lrus.wolterskluwer.com/media/3200/digital-products-banner.jpg)
+Coding is not ‘fun’, it’s technically and ethically complex
+https://www.doranco.fr/inc/src/img/parcours/banniere/42.png)
 
 # veille-informatique
 - [Démarches](https://github.com/EPradillon/veille-informatique/blob/main/demarche.md)
