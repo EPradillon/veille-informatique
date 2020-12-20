@@ -34,7 +34,3 @@ par exemple je suis abonnés au canaux :
   - Test driven Developpment
   - Symfony (Php)
   - POO
-- [Chaine de Christopher Okhravi](https://www.youtube.com/channel/UCbF-4yQQAWw-UnuCd2Azfzg)(anglophone)
-  - Design pattern
-  - SOLID design principle
-  - Tuto Vim
