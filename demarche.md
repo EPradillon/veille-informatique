@@ -7,7 +7,7 @@ La veille active correspond aux ressources que je consulte de manière sporadiqu
 Une fois par mois au moins, je parcours la liste des meetup de Montpellier .
 (Avec le format visio, imposé en ce moment par le confinement, j'étends la zone géographique de recherche (tant que c'est français ou anglais).
 
-J'ai une liste de carnets toujours à porté avec chacun leur(s) sujet(s). Cela va de l'informatique à la musique (en passant par mes anciennes études en optic / analyse de la vison)
+Ce n'est pas du niveau d'une extension web aboutie tel qu'evernote mais j'ai une liste de carnets toujours à porté avec chacun leur(s) sujet(s). Cela va de l'informatique à la musique (en passant par mes anciennes études en optic / analyse de la vison)
 <details>
  <summary>preuve en image</summary>
  
