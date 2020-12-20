@@ -17,6 +17,9 @@
   - SOLID design principle
   - Tuto Vim
 
+### Hardware
+- [The PC builder's friend](https://www.logicalincrements.com/)
+
 ## Veille "passive"
 
   
