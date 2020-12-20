@@ -1,8 +1,6 @@
 # veille-informatique
-![bannière](https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-blue-minimalist-technology-computer-banner-image_178469.jpg)
+![bannière](https://www.doranco.fr/inc/src/img/parcours/banniere/42.png)
 >Coding is not ‘fun’, it’s technically and ethically complex
-https://www.doranco.fr/inc/src/img/parcours/banniere/42.png)
-
 
 - [Démarches](https://github.com/EPradillon/veille-informatique/blob/main/demarche.md)
 
