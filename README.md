@@ -37,4 +37,4 @@ par exemple je suis abonnés au canaux :
   
 ### GitHub
 
-[Les projets "du moment"](https://github.com/trending)
+- [Les projets "du moment"](https://github.com/trending)
