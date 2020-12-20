@@ -1,5 +1,5 @@
 [Retour à la racine du projet](https://github.com/EPradillon/veille-informatique)  
-
+![bannière](https://www.eurocrm.com/en/wp-content/uploads/EUROCRM-BANNIERE_SI.jpg)
 ## Infrasctructure as Code
 https://crate.io/a/infrastructure-as-code-part-one/
 
