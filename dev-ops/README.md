@@ -6,6 +6,9 @@ https://crate.io/a/infrastructure-as-code-part-one/
 ## Dev-ops best practice
 https://gist.github.com/jpswade/4135841363e72ece8086146bd7bb5d91
 
+## Changelog
+https://medium.com/better-programming/create-your-own-changelog-generator-with-git-aefda291ea93
+
 ## Docker
 [Documentation](https://github.com/EPradillon/veille-informatique/blob/main/dev-ops/docker-doc.md) personnelle
 
