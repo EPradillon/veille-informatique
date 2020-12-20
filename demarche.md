@@ -19,7 +19,7 @@ Ce n'est pas du niveau d'une extension web aboutie tel qu'evernote mais j'ai une
 
 J'utilise aussi enormément le [markdown](https://fr.wikipedia.org/wiki/Markdown) (à l'image de ce format de rendu) pour prendre des notes. La courbe d'apprentissage est "logarithmique" mais on peut vraiment faire des choses interressantes et visibles autant sur navigateur que sur IDE (Pratique pour un developpeur). 
 # Veille Passive (automatisée)
-Reddit est la source d'information que je consulte le plus souvent. (En général un jour sur deux et sur mon téléphone)
+Reddit est la source d'information que je consulte le plus souvent. Au moins un soir sur deux (juste après l'heure du couché des enfants) via téléphone.
 Une fois bien configuré il est possible d'avoir un flux d'information de qualité.
 
 <details>
