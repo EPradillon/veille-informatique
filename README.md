@@ -25,6 +25,7 @@ par exemple je suis abonnés au canaux :
 - https://www.reddit.com/r/ArtificialInteligence/
 - https://www.reddit.com/r/science
 - https://www.reddit.com/r/todayilearned/
+- https://www.reddit.com/r/devops/
 
 (l'application remonte les sujet les plus polémiques (bien qu'il y ai une modération parfois trop importante) et/ou les mieux notés par les visiteurs.
 
