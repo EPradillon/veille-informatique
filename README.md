@@ -34,3 +34,7 @@ par exemple je suis abonnés au canaux :
   - Test driven Developpment
   - Symfony (Php)
   - POO
+  
+### GitHub
+
+[Les projets "du moment"](https://github.com/trending)
