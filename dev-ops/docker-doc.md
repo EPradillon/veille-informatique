@@ -2,7 +2,6 @@
 
 [Retour au dossier Dev-Ops](https://github.com/EPradillon/veille-informatique/tree/main/dev-ops)  
 
-https://github.com/EPradillon/veille-informatique/tree/main/dev-ops
 # Step by step : ('depuis un système ubuntu')
 
 ## 1. Choix pour le déploiement
