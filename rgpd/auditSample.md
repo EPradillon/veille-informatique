@@ -1,3 +1,5 @@
+[Retour à la racine du projet](https://github.com/EPradillon/veille-informatique)
+[Retour au sous dossier RGPD](https://github.com/EPradillon/veille-informatique/rgpd)
 
 # Règlement général sur la protection des données
 
