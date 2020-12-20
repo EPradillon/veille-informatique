@@ -3,7 +3,7 @@
 > N'étant pas un grand fan des notifications dans ma vie j'évite autant que possible d'etre sollicité par du contenu.  
 > J'ai malgré moi un petit coté cynique que j'essais de contenir : Pourquoi me présente-on ce sujet et si je ne paie pas pour obtenir l'information qui le fait ?
 
-> Le plus fatiguant sur la veille de nos jours est la configuration incessante des conditions d'utilisation des sites web ...
+> Le plus fatiguant sur la veille de nos jours est la configuration incessante des conditions d'utilisation de chaque site web ...
 
 # Veille Active
 La veille active correspond aux ressources que je consulte de manière sporadique ou lorsque j'en ai besoin.
