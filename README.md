@@ -1,4 +1,4 @@
-![bannière](https://discord.com/assets/e92fcc9ab6e63c1a17e954af347a1f1d.svg =250x)
+![bannière](https://discord.com/assets/e92fcc9ab6e63c1a17e954af347a1f1d.svg =250)
 > Coding is not ‘fun’, it’s technically and ethically complex
 
 # veille-informatique
