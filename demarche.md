@@ -38,7 +38,9 @@ De plus un "sujet" très important remonte dans mon fil d'actualités même s'il
 
 </details>
 
+## Humains
 
+L’interaction avec ses pairs contribuent également à une part importante de ma veille et pas seulement via la formation en école.
 
 # Anglais 
 Autant que possible je lis des ressources ou regarde des series en anglais (sous-titré anglais).   
