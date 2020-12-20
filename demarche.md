@@ -29,6 +29,7 @@ Une fois bien configuré il est possible d'avoir un flux d'information de qualit
 
 </details>
 
+De plus un "sujet" très important remonte dans mon fil d'actualités même s'il ne fait pas partie de mes critères ce qui permet de découvrir de nouvelles choses.
 
 <details>
  <summary>Sujet remonté</summary>
@@ -37,7 +38,6 @@ Une fois bien configuré il est possible d'avoir un flux d'information de qualit
 
 </details>
 
-De plus un "sujet" très important remonte dans mon fil d'actualités même s'il ne fait pas partie de mes critères ce qui permet de découvrir de nouvelles choses.
 
 
 # Anglais 
