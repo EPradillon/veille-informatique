@@ -1,5 +1,5 @@
 # veille-informatique
-
+- [Démarches](https://github.com/EPradillon/veille-informatique/blob/main/demarche.md)
 
 ## Veille "active"
 - [Dossier RGPD](https://github.com/EPradillon/veille-informatique/tree/main/rgpd)
