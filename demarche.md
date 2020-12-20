@@ -7,8 +7,6 @@ La veille active correspond aux ressources que je consulte de manière sporadiqu
 Une fois par mois au moins, je parcours la liste des meetup de Montpellier .
 (Avec le format visio, imposé en ce moment par le confinement, j'étends la zone géographique de recherche (tant que c'est français ou anglais).
 
-https://cdn.discordapp.com/attachments/250327786508517388/790323254681272370/1608498142559.jpg
-
 ![carnets](https://cdn.discordapp.com/attachments/250327786508517388/790323254681272370/1608498142559.jpg)
 
 # Veille Passive (automatisée)
