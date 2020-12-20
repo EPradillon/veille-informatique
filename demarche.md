@@ -41,6 +41,7 @@ De plus un "sujet" très important remonte dans mon fil d'actualités même s'il
 ## Humains
 
 L’interaction avec ses pairs contribuent également à une part importante de ma veille et pas seulement via la formation en école.
+J'utilise aussi [Discord](https://discord.com/) pour continuer d'échanger et ainsi garder contact avec d'anciens collègues.
 
 # Anglais 
 Autant que possible je lis des ressources ou regarde des series en anglais (sous-titré anglais).   
