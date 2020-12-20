@@ -1,5 +1,5 @@
 # veille-informatique
-![bannière](https://lrus.wolterskluwer.com/media/3200/digital-products-banner.jpg)
+![bannière](https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-blue-minimalist-technology-computer-banner-image_178469.jpg)
 >Coding is not ‘fun’, it’s technically and ethically complex
 https://www.doranco.fr/inc/src/img/parcours/banniere/42.png)
 
