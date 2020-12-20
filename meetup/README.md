@@ -1,5 +1,5 @@
 ![bannière](https://media.istockphoto.com/vectors/marketing-meetup-concept-banner-header-vector-id1133760635?k=6&m=1133760635&s=170667a&w=0&h=Garu9D6j6IEq9yiHyOa92P_HYJPTLWlgeWsNXXZ5HMc=)
-[Retour à la racine du projet](https://github.com/EPradillon/veille-informatique)  
+> [Retour à la racine du projet](https://github.com/EPradillon/veille-informatique)  
 
 # Meetup :
 
