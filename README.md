@@ -1,5 +1,5 @@
-> Coding is not ‘fun’, it’s technically and ethically complex
-![bannière](https://www.doranco.fr/inc/src/img/parcours/banniere/42.png)
+> 
+![bannière](https://www.doranco.fr/inc/src/img/parcours/banniere/42.png)Coding is not ‘fun’, it’s technically and ethically complex
 
 
 # veille-informatique
