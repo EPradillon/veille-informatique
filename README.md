@@ -1,3 +1,5 @@
+> Coding is not ‘fun’, it’s technically and ethically complex
+
 # veille-informatique
 - [Démarches](https://github.com/EPradillon/veille-informatique/blob/main/demarche.md)
 
