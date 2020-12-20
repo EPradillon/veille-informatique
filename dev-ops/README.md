@@ -12,6 +12,9 @@ https://gist.github.com/jpswade/4135841363e72ece8086146bd7bb5d91
 
 Elle est découpé en plusieurs partie : Front-end / back-end / Dev Ops.
 
+## Plateform as Service
+https://www.heroku.com/
+
 ## Red Hat 
 [lien du site](https://www.redhat.com/en)  
 
