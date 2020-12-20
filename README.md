@@ -1,5 +1,6 @@
-![bannière](https://www.doranco.fr/inc/src/img/parcours/banniere/42.png)
 > Coding is not ‘fun’, it’s technically and ethically complex
+![bannière](https://www.doranco.fr/inc/src/img/parcours/banniere/42.png)
+
 
 # veille-informatique
 - [Démarches](https://github.com/EPradillon/veille-informatique/blob/main/demarche.md)
