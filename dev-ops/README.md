@@ -6,6 +6,6 @@
 
 Elle est découpé en plusieurs partie : Front-end / back-end / Dev Ops.
 
-## Red Hat
+## Red Hat (lien du site(https://www.redhat.com/en))
 D'autre ressource que je parcours pour avoir des informations sur le thème "dev-ops" est le site de [Red Hat](https://www.redhat.com/en)
 Ils donnent de nombreuses informations, avec une rigeur de transparence, autour de l'univers du cloud et de la containerisation d'application. 
