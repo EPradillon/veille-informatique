@@ -11,7 +11,7 @@ J'ai une liste de carnets toujours à porté avec chacun leur(s) sujet(s). Cela 
 <details>
  <summary>preuve en image</summary>
  
-![carnets](https://cdn.discordapp.com/attachments/250327786508517388/790323254681272370/1608498142559.jpg?width=676&height=312)
+![carnets](https://cdn.discordapp.com/attachments/250327786508517388/790323254681272370/1608498142559.jpg?width=676)
 
 </details>
 
@@ -23,7 +23,7 @@ Une fois bien configuré il est possible d'avoir un flux d'information de qualit
 <details>
  <summary>Page devops</summary>
  
-![dev-ops](https://cdn.discordapp.com/attachments/250327786508517388/790325269075853372/Screenshot_2020-12-20-21-11-46-349_com.reddit.frontpage.jpg?width=312&height=676)
+![dev-ops](https://cdn.discordapp.com/attachments/250327786508517388/790325269075853372/Screenshot_2020-12-20-21-11-46-349_com.reddit.frontpage.jpg?width=312)
 
 </details>
 
