@@ -1,5 +1,8 @@
-[Retour à la racine du projet](https://github.com/EPradillon/veille-informatique)  
+[Retour à la racine du projet](https://github.com/EPradillon/veille-informatique)   
 
+[Retour au dossier Dev-Ops](https://github.com/EPradillon/veille-informatique/tree/main/dev-ops)  
+
+https://github.com/EPradillon/veille-informatique/tree/main/dev-ops
 # Step by step : ('depuis un système ubuntu')
 
 ## 1. Choix pour le déploiement
