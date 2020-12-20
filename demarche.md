@@ -7,7 +7,7 @@ La veille active correspond aux ressources que je consulte de manière irréguli
 Une fois par mois au moins, je parcours la liste des meetup de Montpellier .
 (Avec le format visio, imposé en ce moment par le confinement, j'étends la zone géographique de recherche (tant que c'est français ou anglais).
 
-# Veille Passive 
+# Veille Passive (automatisée)
 Reddit est la source d'information que je consulte le plus souvent. (En général un jour sur deux)
 Une fois bien configuré il est possible d'avoir un flux d'information de qualité.
 
