@@ -9,9 +9,16 @@
 - [dev-ops](https://github.com/EPradillon/veille-informatique/tree/main/dev-ops)
 
 - [Meetup](https://github.com/EPradillon/veille-informatique/tree/main/meetup)
+### Youtube
+- [Chaine de Christopher Okhravi](https://www.youtube.com/channel/UCbF-4yQQAWw-UnuCd2Azfzg)(anglophone)
+  - Design pattern
+  - SOLID design principle
+  - Tuto Vim
 
 ## Veille "passive"
 
+  
+### Reddit
 Sur une application Reddit (en lien direct avec le site [officiel](https://www.reddit.com/r/Python) ) il est possible préciser des sujets favoris/de prédilection.
 par exemple je suis abonnés au canaux : 
 - https://www.reddit.com/r/Python/
@@ -20,3 +27,13 @@ par exemple je suis abonnés au canaux :
 - https://www.reddit.com/r/todayilearned/
 
 (l'application remonte les sujet les plus polémiques (bien qu'il y ai une modération parfois trop importante) et/ou les mieux notés par les visiteurs.
+
+### Youtube
+- [Chaine de Lior Chamla](https://www.youtube.com/channel/UCS71mal_TkTW_PpZR9YLpIA) (francophone)
+  - Test driven Developpment
+  - Symfony (Php)
+  - POO
+- [Chaine de Christopher Okhravi](https://www.youtube.com/channel/UCbF-4yQQAWw-UnuCd2Azfzg)(anglophone)
+  - Design pattern
+  - SOLID design principle
+  - Tuto Vim
