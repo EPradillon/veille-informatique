@@ -1,5 +1,5 @@
 [Retour à la racine du projet](https://github.com/EPradillon/veille-informatique)
-
+> [!NOTE]
 > N'étant pas un grand fan des notifications dans ma vie j'évite autant que possible d'etre sollicité par du contenu.  
 > J'ai malgré moi un petit coté cynique que j'essais de contenir : Pourquoi me présente-on ce sujet et si je ne paie pas pour obtenir l'information qui le fait ?
 
