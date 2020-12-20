@@ -5,3 +5,5 @@
 ## [design-pattern](https://github.com/EPradillon/veille-informatique/tree/main/design-pattern)
 
 ## [dev-ops](https://github.com/EPradillon/veille-informatique/tree/main/dev-ops)
+
+## [Meetup](https://github.com/EPradillon/veille-informatique/tree/main/meetup)
