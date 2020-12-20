@@ -2,9 +2,9 @@
 ![bannière](https://www.doranco.fr/inc/src/img/parcours/banniere/42.png)
 >Coding is not ‘fun’, it’s technically and ethically complex
 
-## [Démarches](https://github.com/EPradillon/veille-informatique/blob/main/demarche.md)
+## 0. [Démarches](https://github.com/EPradillon/veille-informatique/blob/main/demarche.md)
 
-## Veille "active"
+## 1. Veille "active"
 - [Dossier RGPD](https://github.com/EPradillon/veille-informatique/tree/main/rgpd)
 
 - [Dossier design-pattern](https://github.com/EPradillon/veille-informatique/tree/main/design-pattern)
@@ -21,7 +21,7 @@
 ### Hardware
 - [The PC builder's friend](https://www.logicalincrements.com/)
 
-## Veille "passive"
+## 2. Veille "passive"
 
   
 ### Reddit
