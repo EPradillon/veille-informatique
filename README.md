@@ -33,7 +33,7 @@ par exemple je suis abonnés au canaux :
 - https://www.reddit.com/r/todayilearned/
 - https://www.reddit.com/r/devops/
 
-(l'application remonte les sujet les plus polémiques (bien qu'il y ai une modération parfois trop importante) et/ou les mieux notés par les visiteurs.
+L'application remonte les sujet les plus polémiques (bien qu'il y ai une modération parfois trop importante) et/ou les mieux notés par les visiteurs.
 
 ### Youtube
 - [Chaine de Lior Chamla](https://www.youtube.com/channel/UCS71mal_TkTW_PpZR9YLpIA) (francophone)
