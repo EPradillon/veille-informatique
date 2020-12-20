@@ -2,13 +2,13 @@
 
 
 ## Veille "active"
-- [RGPD](https://github.com/EPradillon/veille-informatique/tree/main/rgpd)
+- [Dossier RGPD](https://github.com/EPradillon/veille-informatique/tree/main/rgpd)
 
-- [design-pattern](https://github.com/EPradillon/veille-informatique/tree/main/design-pattern)
+- [Dossier design-pattern](https://github.com/EPradillon/veille-informatique/tree/main/design-pattern)
 
-- [dev-ops](https://github.com/EPradillon/veille-informatique/tree/main/dev-ops)
+- [Dossier dev-ops](https://github.com/EPradillon/veille-informatique/tree/main/dev-ops)
 
-- [Meetup](https://github.com/EPradillon/veille-informatique/tree/main/meetup)
+- [Dossier Meetup](https://github.com/EPradillon/veille-informatique/tree/main/meetup)
 ### Youtube
 - [Chaine de Christopher Okhravi](https://www.youtube.com/channel/UCbF-4yQQAWw-UnuCd2Azfzg)(anglophone)
   - Design pattern
