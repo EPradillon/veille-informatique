@@ -10,7 +10,9 @@ Une fois par mois au moins, je parcours la liste des meetup de Montpellier .
 j'ai une liste de carnets avec chacun leur(s) sujet(s), de l'informatique jusqu'à la musique en passant par mes anciennes études en optic / analyse de la vison
 <details>
  <summary>preuve en image</summary>
+ 
 ![carnets](https://cdn.discordapp.com/attachments/250327786508517388/790323254681272370/1608498142559.jpg)
+
 </details>
 
 
