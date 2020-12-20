@@ -19,7 +19,7 @@
 
   
 ### Reddit
-Sur une application Reddit (en lien direct avec le site [officiel](https://www.reddit.com/r/Python) ) il est possible préciser des sujets favoris/de prédilection.
+Sur une application Reddit (en lien direct avec le site [officiel](https://www.reddit.com) ) il est possible préciser des sujets favoris/de prédilection.
 par exemple je suis abonnés au canaux : 
 - https://www.reddit.com/r/Python/
 - https://www.reddit.com/r/ArtificialInteligence/
