@@ -1,4 +1,4 @@
-# Notes liées au packages d'ubuntu
+# Notes liées aux packages d'ubuntu
 ## sudo apt-get update
 
 ### Erreur de mise a jour :
